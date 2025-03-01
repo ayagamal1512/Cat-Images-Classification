@@ -7,6 +7,7 @@ Our initial model is build from scrach using numpy and the model architecture wa
 - Backward propagation
 - Logistic regression model building
 - Predictions
+
 and with these 2 hidden layers I managed to achive **80% test accuracy**, which is good but we can do better!
 The cahllengs were:
 - very small training examples and there is not enough examples for the model to learn
